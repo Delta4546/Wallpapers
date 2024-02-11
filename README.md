@@ -6,7 +6,7 @@
 <img src="./wallpapers/NATURE/91.JPG" height="240" width="480">
 <img src="./wallpapers/NATURE/19.jpg" height="240" width="480">
 <img src="./wallpapers/NATURE/24.png" height="240" width="480">
-<img src="./wallpapers/NATURE/4.jpeg" height="240" width="480">
+<img src="./wallpapers/NATURE/07.jpeg" height="240" width="480">
 
 ## :sushi: Some anime wallpapers
 <img src="./wallpapers/ANIME/94.JPEG" height="240" width="480">
