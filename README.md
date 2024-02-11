@@ -23,4 +23,4 @@
 <img src="./wallpapers/VIDEO-GAMES/46.png" height="240" width="480">
 <img src="./wallpapers/VIDEO-GAMES/72.jpeg" height="240" width="480">
 <img src="./wallpapers/VIDEO-GAMES/34.png" height="240" width="480">
-<img src="./wallpapers/VIDEO-GAMES/18.png" height="240" width="480">
+
